@@ -51,16 +51,17 @@ Run using:
 
 ```bash
 python script_name.py
+```
 
 ### Tools Used
--Python 3
+- Python 3
 
--os, csv
+- os, csv
 
--openpyxl
+- openpyxl
 
--Git & GitHub
+- Git & GitHub
 
 ### Author
 
--Built by Mohammed Arif Hussain
+- Built by Mohammed Arif Hussain
